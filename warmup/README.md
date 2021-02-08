@@ -1,0 +1,8 @@
+
+
+These are some warm-up to get started with project. 
+ -Set up java development environment 
+ -Read and review java basics 
+ -Know how to define classes and create instances of objects 
+ -Furthermore, build class access by using access specifier-
+  public,private.
